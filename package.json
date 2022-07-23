@@ -1,24 +1,21 @@
 {
-  "publisher": "antfu",
+  "publisher": "kkopite",
   "name": "name",
-  "displayName": "My Extension",
+  "displayName": "Show Version Range",
   "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@7.5.1",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "kkopite <kkopitehong@foxmail.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/[name]#readme",
+  "funding": "https://github.com/sponsors/kkopite",
+  "homepage": "https://github.com/kkopite/show-version-range#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/[name]"
+    "url": "https://github.com/kkopite/show-version-range"
   },
   "bugs": {
-    "url": "https://github.com/antfu/[name]/issues"
-  },
-  "sponsor": {
-    "url": "https://github.com/sponsors/antfu"
+    "url": "https://github.com/kkopite/show-version-range/issues"
   },
   "categories": [
     "Other"
